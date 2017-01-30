@@ -1,0 +1,11 @@
+apple-яблоко
+flower-цветок
+girl-девушка
+boy-мальчик
+laptop-ноутбук
+Earth-Земля
+phone-телефон
+banana-банан
+cup-чашка
+dictionary-словарь
+star-звезда
